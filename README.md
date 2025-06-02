@@ -1,2 +1,3 @@
 # projectdemo1
-this is my firt git repository
+this is my first git repository.
+Author- Mansi Saini
